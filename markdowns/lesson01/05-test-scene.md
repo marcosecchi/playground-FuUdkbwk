@@ -2,7 +2,7 @@
 
 Lanciamo il _Play_ per sincerarci che tutto funzioni a dovere.
 
-![Testare la Scena](../images/lesson01/pic19_test_scene.png "Testare la Scena")
+![Testare la Scena](../../images/lesson01/pic19_test_scene.png "Testare la Scena")
 
 ## Salvare la Scena!
 
