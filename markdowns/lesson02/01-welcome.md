@@ -1,4 +1,4 @@
-# Creare un Pickup Coin
+# LEzione 2: Creare un Pickup Coin
 
 Questo tutorial impareremo a creare una moneta di tipo _pickup_ (che potrà cioè essere raccolta dal giocatore): il tutto verrà gestito da un _Flowchart_ di [Fungus](http://fungusgames.com/).
 
