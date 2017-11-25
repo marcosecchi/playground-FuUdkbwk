@@ -3,7 +3,7 @@ plan:
 - title: Presentazione
   description: Introduzione al Tutorial
   plan:
-  - title: Welcome
+  - title: Benvenuti!
     statement: markdowns/welcome.md
 - title: Prototipazione della Scena
   description: Creare una scena per l'applicazione
