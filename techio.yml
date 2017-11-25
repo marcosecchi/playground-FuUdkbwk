@@ -9,7 +9,7 @@ plan:
   description: Creare una scena per l'applicazione
   plan:
   - title: Introduzione
-    statement: markdowns/lesson01/01-welcome.md
+    statement: markdowns/lesson01/01-intro.md
   - title: Setup
     statement: markdowns/lesson01/02-setup.md
   - title: Creazione della Scena
@@ -21,8 +21,8 @@ plan:
 - title: Creare dei PickUp Coins
   description: Raccogliere Oggetti in Scena
   plan:
-  - title: Setup
-    statement: markdowns/lesson02/01-welcome.md
+  - title: Introduzione
+    statement: markdowns/lesson02/01-intro.md
   - title: Creazione del GameObject
     statement: markdowns/lesson02/02-gameobject-creation.md
   - title: Controllare la Logica del PickUp

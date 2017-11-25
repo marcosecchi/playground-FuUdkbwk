@@ -12,7 +12,7 @@ Durante la lezione, farò riferimento a [Fungus](http://fungusgames.com/), una e
 
 ## Elenco delle Lezioni
 
-1. [Prototipare una Scena](https://tech.io/playgrounds/10586/unity3d-e-fungus-tutorial---parte-1/)
+1. [Prototipare una Scena](./introduzione)
 1. [Creare un Pickup Coin](https://tech.io/playgrounds/10585/unity3d-e-fungus-tutorial---parte-2/)
 
 
