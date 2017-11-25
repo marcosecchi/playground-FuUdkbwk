@@ -10,15 +10,15 @@ plan:
   description: Creare una scena per l'applicazione
   plan:
   - title: Introduzione
-    statement: markdowns/01-welcome.md
+    statement: markdowns/lesson01/01-welcome.md
   - title: Setup
-    statement: markdowns/02-setup.md
+    statement: markdowns/lesson01/02-setup.md
   - title: Creazione della Scena
-    statement: markdowns/03-scene-creation.md
+    statement: markdowns/lesson01/03-scene-creation.md
   - title: Aggiungere un Flowchart
-    statement: markdowns/04-add-flowchart.md
+    statement: markdowns/lesson01/04-add-flowchart.md
   - title: Provare la Scena
-    statement: markdowns/05-test-scene.md
+    statement: markdowns/lesson01/05-test-scene.md
 
 
 
