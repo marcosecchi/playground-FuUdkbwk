@@ -1,7 +1,26 @@
-title: Unity3D e Fungus Tutorial - Presentazione
+title: Tutorial - Unity3D e Fungus
 plan:
-- title: Intro
+- title: Presentazione
   description: Introduzione al Tutorial
   plan:
   - title: Welcome
     statement: markdowns/welcome.md
+plan:
+- title: Prototipazione della Scena
+  description: Creare una scena per l'applicazione
+  plan:
+  - title: Introduzione
+    statement: markdowns/01-welcome.md
+  - title: Setup
+    statement: markdowns/02-setup.md
+  - title: Creazione della Scena
+    statement: markdowns/03-scene-creation.md
+  - title: Aggiungere un Flowchart
+    statement: markdowns/04-add-flowchart.md
+  - title: Provare la Scena
+    statement: markdowns/05-test-scene.md
+
+
+
+
+
