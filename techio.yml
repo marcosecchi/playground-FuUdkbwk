@@ -1,11 +1,10 @@
-title: Tutorial - Unity3D e Fungus
+title: Tutorial Unity3D e Fungus
 plan:
 - title: Presentazione
   description: Introduzione al Tutorial
   plan:
   - title: Welcome
     statement: markdowns/welcome.md
-plan:
 - title: Prototipazione della Scena
   description: Creare una scena per l'applicazione
   plan:
@@ -19,9 +18,10 @@ plan:
     statement: markdowns/lesson01/04-add-flowchart.md
   - title: Provare la Scena
     statement: markdowns/lesson01/05-test-scene.md
-plan:
-  - title: Creare dei PickUp Coins
-    description: Raccogliere Oggetti in Scena
+- title: Creare dei PickUp Coins
+  description: Raccogliere Oggetti in Scena
+  plan:
+  - title: Setup
     statement: markdowns/lesson02/01-welcome.md
   - title: Creazione del GameObject
     statement: markdowns/lesson02/02-gameobject-creation.md
