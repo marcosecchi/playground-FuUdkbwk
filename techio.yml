@@ -33,5 +33,6 @@ plan:
     statement: markdowns/lesson02/06-test-scene.md
 - title: Tenere Traccia dei Punti
   description: Come registrare i punti raccolti e visualizzarli
+  plan:
   - title: Introduzione
     statement: markdowns/lesson03/01-intro.md
