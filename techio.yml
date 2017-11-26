@@ -31,3 +31,7 @@ plan:
     statement: markdowns/lesson02/04-create-prefab.md
   - title: Provare la Scena
     statement: markdowns/lesson02/06-test-scene.md
+- title: Tenere Traccia dei Punti
+  description: Come registrare i punti raccolti e visualizzarli
+  - title: Introduzione
+    statement: markdowns/lesson03/01-intro.md
