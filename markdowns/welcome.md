@@ -2,6 +2,8 @@
 
 Questa serie di lezioni è mirata all'utilizzo di [Unity3D](https://unity3d.com/) con [Fungus](http://fungusgames.com/) in un ambiente 3D.
 
+> Per domande, osservazioni e/o segnalazioni, mi trovate al seguente indirizzo: [marcosecchi.it](http://marcosecchi.it)
+
 ## Prerequisiti
 
 E' richiesta l'installazione di [Unity3D](https://store.unity.com/?_ga=2.175184613.639057983.1511186465-253114653.1489499620) sul proprio computer ed una conoscenza, anche base, dello strumento.
@@ -12,12 +14,7 @@ Durante la lezione, farò riferimento a [Fungus](http://fungusgames.com/), una e
 
 ## Elenco delle Lezioni
 
-1. [Prototipare una Scena](https://tech.io/playgrounds/10655/tutorial-unity3d-e-fungus/introduzione)
-1. [Creare un Pickup Coin](https://tech.io/playgrounds/10655/tutorial-unity3d-e-fungus/introduzione-2)
-1. Contare i Punti (a breve...)
-
-
-## Contatti
-
-Per domande, osservazioni e/o segnalazioni, mi trovate al seguente indirizzo: [marcosecchi.it](http://marcosecchi.it)
+1. [Prototipare una Scena](https://tech.io/playgrounds/10655/tutorial-unity3d-e-fungus-pickups/introduzione)
+1. [Creare un Pickup Coin](https://tech.io/playgrounds/10655/tutorial-unity3d-e-fungus-pickups/introduzione-2)
+1. [Tenere Traccia dei Punti](https://tech.io/playgrounds/10655/tutorial-unity3d-e-fungus-pickups/introduzione-3)
 
