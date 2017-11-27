@@ -28,6 +28,13 @@ Salviamo e lanciamo la scena: ogni volta che raccoglieremo una moneta, la nostra
 
 ## Visualizzare i Punti nella UI
 
-[TBD]
+L'ultima cosa che ci rimane da fare, è quella di visualizzare i punti nella UI: useremo, per comodità, lo stesso campo di testo che abbiamo utilizzato per mostrare il messaggio di benvenuto.
 
+Sempre con il blocco _On Coin Collect_ selezionato, aggiungiamo il comando _UI > SetText_, assegnamo a _Target Text Object_ il _Text_ in scena ed inseriamo il seguente testo:
+
+```{$TotalPoints} Punti````
+
+> La dicitura _{$nome-della-variabile}_ sostituisce, durante il gioco, il valore della variabile nel testo.
+
+![Aggiornare la UI](../../images/lesson03/pic07_update_ui.png "Aggiornare la UI")
 
