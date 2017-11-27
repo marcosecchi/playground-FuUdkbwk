@@ -10,4 +10,4 @@ Salviamo la infine scena.
 
 ## Progetto Completo della Lezione
 
-E' possibile scaricare il progetto completo di questa lezione: [Tech.io Fungus 3D Tutorial](https://github.com/marcosecchi/techio-fungus-3d-tutorial/archive/part_03.zip).
+E' possibile scaricare il progetto completo di questa lezione: [Tech.io Fungus 3D Tutorial](https://github.com/marcosecchi/techio-tutorial-fungus-pickups/archive/part_03.zip).

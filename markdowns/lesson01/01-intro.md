@@ -4,5 +4,5 @@ Questa lezione serve come punto di partenza per la creazione di una scena ed il 
 
 ## Progetto Completo della Lezione
 
-E' possibile scaricare il progetto completo di questa lezione: [Tech.io Fungus 3D Tutorial](https://github.com/marcosecchi/techio-fungus-3d-tutorial/archive/part_01.zip).
+E' possibile scaricare il progetto completo di questa lezione: [Tech.io Fungus 3D Tutorial](https://github.com/marcosecchi/techio-tutorial-fungus-pickups/archive/part_01.zip).
 
