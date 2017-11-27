@@ -17,17 +17,3 @@ Sempre all'interno del blocco _On Coin Collect_, selezioniamo dal menu _Execute 
 ![Ricevere il Messaggio](../../images/lesson03/pic03_receive_message.png "Ricevere il Messaggio")
 
 Salviamo la scena e lanciamola: ogni volta che raccogliamo una moneta, alla console dovrebbe apparire il messaggio corrispondente.
-
-## Tenere Traccia dei Punti
-
-Dobbiamo ora andare a visualizzare in scena il numero di punti totalizzati per la raccolta delle monete.
-
-### Creare le Variabili
-
-[TBD]
-
-### Visualizzare i Punti nella UI
-
-[TBD]
-
-
