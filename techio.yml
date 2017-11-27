@@ -38,3 +38,7 @@ plan:
     statement: markdowns/lesson03/01-intro.md
   - title: Comunicare tra Diversi Flowchart
     statement: markdowns/lesson03/02-flowchart-communication.md
+  - title: Spedire un Messaggio
+    statement: markdowns/lesson03/03-send-message.md
+  - title: Rimanere in Ascolto di Un Messaggio
+    statement: markdowns/lesson03/04-message-received.md
