@@ -14,6 +14,6 @@ Dal menu _Message Target_ selezioniamo _All Flowcharts_ (in modo che il comando 
 
 > Il testo del messaggio è sensibile a minuscole/maiuscole, quindi facciamo attenzione a cosa scriviamo!
 
-![Spedire il Messaggio](../../images/lesson03/pic01_send-message.png "Spedire il Messaggio")
+![Spedire il Messaggio](../../images/lesson03/pic01_send_message.png "Spedire il Messaggio")
 
-Tutti i nostri coin in scena dovrebbero ora avere aggiunto il comando.
+Tutti i nostri coin in scena dovrebbero ora avere aggiunto il comando _Send Message_.
