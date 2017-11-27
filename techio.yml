@@ -36,3 +36,5 @@ plan:
   plan:
   - title: Introduzione
     statement: markdowns/lesson03/01-intro.md
+  - title: Comunicare tra Diversi Flowchart
+    statement: markdowns/lesson03/02-flowchart-communication.md

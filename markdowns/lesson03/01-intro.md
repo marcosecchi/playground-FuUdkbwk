@@ -1,6 +1,6 @@
 # Lezione 3: Tenere Traccia dei Punti
 
-In questo tutorial impareremo a tenere traccia dei punti guadagnati raccogliendo le monete realizzate nella lezione precedente.
+In questo tutorial impareremo a tenere traccia dei punti guadagnati raccogliendo le monete realizzate nella lezione precedente. In particolare, si imparerà a fare comunicare due differenti _Flowchart_ itramite messaggi.
 
 ### Prerequisiti
 
