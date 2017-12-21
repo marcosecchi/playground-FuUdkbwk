@@ -4,7 +4,7 @@ Andremo ora a creare un semplice prototipo di scena, che servirà come base per 
 
 ## Creazione dell'Ambiente
 
-Per prima cosa andremo ad aggiungere alcuni elementi al nostro scenario: datta cartella _Standard Assets > Prototyping > Prefabs_ trascinare il prefab _FloorPrototype64x01x64_ nella finestra _Hierarchy_, per creare un pavimento.
+Per prima cosa andremo ad aggiungere alcuni elementi al nostro scenario: dalla cartella _Standard Assets > Prototyping > Prefabs_ trascinare il prefab _FloorPrototype64x01x64_ nella finestra _Hierarchy_, per creare un pavimento.
 
 ![Aggiunta del Pavimento](../../images/lesson01/pic05_floor_creation_01.png "Aggiunta del Pavimento")
 
