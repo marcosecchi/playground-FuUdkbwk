@@ -39,7 +39,7 @@ Dalla cartella _Standard Assets > Cameras > Prefabs_, trasciniamo nella finestra
 
 ![Aggiungere la Camera](../../images/lesson01/pic11_add_camera.png "Aggiungere la Camera")
 
-> Il prefab MultipurposeCameraRig contiene una camera molto più flessibile di quella fissa, che seguirà il proprio target ovunque vada.
+> Il prefab _MultipurposeCameraRig_ contiene una camera molto più flessibile di quella fissa, che seguirà il proprio target ovunque vada.
 
 Come ultimo passo, selezionare _MultipurposeCameraRig_ nella _Hierarchy_ e trascinare il _ThirdPersonController_ dalla _Hierarchy_ (non dal pannello _Project_!) nel campo _Target_ del componente _Auto Cam_.
 
