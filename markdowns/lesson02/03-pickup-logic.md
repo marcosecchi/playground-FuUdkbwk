@@ -10,7 +10,7 @@ Selezioniamo il GameObject _PickUpCoin_, clicchiamo su _Add Component_ e selezio
 
 ## Aggiungere il Blocco 'Trigger Enter'
 
-Creiamo ora un blocco di comandi, tramite il pulsante _+_ nella finestra del _Flowchart_ e rinominiamolo _TriggerEnter_
+Creiamo ora un blocco di comandi, tramite il pulsante _+_ nella finestra del _Flowchart_ e rinominiamolo _TriggerEnter_.
 
 Il blocco deve attivarsi all'evento _MonoBehaviour > Trigger_ (_FireOn > Enter_), cioè quando un elemento in scena entra nel _Trigger_ del GameObject.
 
