@@ -14,7 +14,7 @@ Creiamo ora un blocco di comandi, tramite il pulsante _+_ nella finestra del _Fl
 
 Il blocco deve attivarsi all'evento _MonoBehaviour > Trigger_ (_FireOn > Enter_), cioè quando un elemento in scena entra nel _Trigger_ del GameObject.
 
-Imponiamo al _TagFilter_ il valore 1 e, nell'_Element 0_ inseriamo "Player" (attenzione alla maiuscola!), in modo che solamente il Controller (che abbiamo taggato nella lezione precedente come "Player").
+Imponiamo al _TagFilter_ il valore 1 e, nell'_Element 0_ inseriamo "Player" (attenzione alla maiuscola!), in modo che solamente il Controller (che abbiamo taggato nella lezione precedente come "Player") attivi il trigger.
 
 ![Aggiungere il Blocco al Flowchart](../../images/lesson02/pic07_add_block.png "Aggiungere il Blocco al Flowchart")
 
