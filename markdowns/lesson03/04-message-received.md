@@ -12,7 +12,7 @@ Selezioniamo _MainFlowchart_ dalla scena ed apriamo la finestra di editing. Aggi
 
 ## Aggiungere l'evento MessageReceived
 
-Sempre all'interno del blocco _On Coin Collect_, selezioniamo dal menu _Execute On Event_ il valore _Scene > Message Received_ e, nel campo _Message_ inseriamo lo stesso messaggio che abbiamo spedito in precedenza (_coin-collected_).
+Sempre all'interno del blocco _On Coin Collect_, selezioniamo dal menu _Execute On Event_ il valore _Scene > Message Received_ e, nel campo _Message_ inseriamo lo stesso messaggio che abbiamo spedito in precedenza ('coin-collected').
 
 ![Ricevere il Messaggio](../../images/lesson03/pic03_receive_message.png "Ricevere il Messaggio")
 

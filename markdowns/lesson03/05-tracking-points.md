@@ -10,7 +10,7 @@ Ci servono innanzitutto due variabili per tenere traccia di:
 * quanti punti totali sono stati accumulati
 
 Apriamo il _MainFlowchart_ e, dalla sezione _Variables_, tramite il pulsante _+_, creiamo due variabili di tipo _integer_ che chiameremo, rispettivamente, _PointsPerCoin_ e _TotalPoints_.
-Assegnamo a _PointsPerCoin__ il valore 10.
+Assegnamo a _PointsPerCoin_ il valore 10.
 
 ![Creare le Variabili](../../images/lesson03/pic04_variables.png "Creare le Variabili")
 
