@@ -14,3 +14,6 @@ Durante la lezione, farò riferimento a [Fungus](http://fungusgames.com/), una e
 
 Per domande, osservazioni e/o segnalazioni, mi trovate al seguente indirizzo: [marcosecchi.it](http://marcosecchi.it)
 
+## Credits
+
+Flag icon by [Freepik](https://www.flaticon.com/packs/countrys-flags)
