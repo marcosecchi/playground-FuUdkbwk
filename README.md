@@ -2,6 +2,8 @@
 
 Questa serie di lezioni è mirata all'utilizzo di [Unity3D](https://unity3d.com/) con [Fungus](http://fungusgames.com/) in un ambiente 3D.
 
+> An english version of this tutorial can be found here: [Tutorial - Unity3D and Fungus](https://tech.io/playgrounds/12965/unity3d-and-fungus-tutorial-pickups/welcome)
+
 ## Prerequisiti
 
 E' richiesta l'installazione di [Unity3D](https://store.unity.com/?_ga=2.175184613.639057983.1511186465-253114653.1489499620) sul proprio computer ed una conoscenza, anche base, dello strumento.
